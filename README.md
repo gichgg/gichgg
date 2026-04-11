@@ -2,7 +2,7 @@
 <h3 align="center">Talent advisor by day, AI tinkerer by night.</h3>
 <h4 align="center">I build people analytics infrastructure, KPI dashboards, and automation tools that surface better talent decisions — and experiment with AI to turn repetitive processes into smart apps.</h4>
 
-<img align="right" alt="Coding" width="380" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
+<img align="right" alt="Coding" width="280" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=gich-hub&label=Profile%20views&color=0e75b6&style=flat" alt="gich-hub" />
