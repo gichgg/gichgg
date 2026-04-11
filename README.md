@@ -1,5 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)
-
 <h1 align="center">Hi 👋, I'm Gich</h1>
 <h3 align="center">All data is people data. In God we trust, y'all can bring the data!</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
