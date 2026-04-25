@@ -14,26 +14,14 @@
 - 💬 Ask me about [My Services](https://www.linkedin.com/services/page/054525313a23053587/) : Building evidence-based hiring for Africa’s leading organisations. Powered by **Power BI · Qlik Sense · Python · SQL · Notion automation** 
 - 📂 Featured projects:
       [Talent Report](https://github.com/gich-hub/Talent-Report-Hogan)  · [FinSight-AI](https://github.com/gich-hub/FinSight-AI)  ·  [ETR-Receipt](https://github.com/gich-hub/ETR-Receipt)
+         
+<h1 align="left"> </h1>
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-  <a href="https://linkedin.com/in/gichehagitau" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gichehagitau" height="30" width="40" />
-  </a>
-</p>
+| | | | |
+|---|---|---|---|
+| <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a> | <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> | <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> | <a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/></a> |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-    <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>
-  </a>
-</p>
+<h1 align="left"> </h1>
+<a href="https://ke.linkedin.com/in/gichehagitau">
+  <img src="https://img.shields.io/badge/Gicheha%20Gitau-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
